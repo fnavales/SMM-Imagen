@@ -233,9 +233,9 @@ Me parecía interesante añadir la siguiente foto para comparar los distintos fo
 
 
 ## Referencias
-+ Programa para convertir las imágenes -> http://www.xnview.com/en/xnconvert/#downloads
-+ Programa para crear collages -> https://www.befunky.com/es/crear/collage/
-+ Programa para visualizar JPEG2000 -> http://openseeit.sourceforge.net/
++ [Programa para convertir las imágenes](http://www.xnview.com/en/xnconvert/#downloads)
++ [Programa para crear collages](https://www.befunky.com/es/crear/collage/)
++ [Programa para visualizar JPEG2000](http://openseeit.sourceforge.net/)
 
 
 [originales]: http://i64.tinypic.com/72rig1.jpg "Fotos originales"
